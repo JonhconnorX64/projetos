@@ -1,0 +1,14 @@
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\bin\Debug\net8.0\Semana.exe
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\bin\Debug\net8.0\Semana.deps.json
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\bin\Debug\net8.0\Semana.runtimeconfig.json
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\bin\Debug\net8.0\Semana.dll
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\bin\Debug\net8.0\Semana.pdb
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.AssemblyInfoInputs.cache
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.AssemblyInfo.cs
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.csproj.CoreCompileInputs.cache
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.dll
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\refint\Semana.dll
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.pdb
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\Semana.genruntimeconfig.cache
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Semana\Semana\obj\Debug\net8.0\ref\Semana.dll
