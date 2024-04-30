@@ -1,0 +1,14 @@
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\kj387\OneDrive\Documentos\Projetos de app\Polimorfismo\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll
