@@ -1,0 +1,13 @@
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\bin\Debug\ProgramasIdeias.exe.config
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.csprojResolveAssemblyReference.cache
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.Form1.resources
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.Properties.Resources.resources
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.csproj.GenerateResource.Cache
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\bin\Debug\ProgramasIdeias.exe
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\bin\Debug\ProgramasIdeias.pdb
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.Saudacoes.resources
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.exe
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.pdb
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.frmcadastro.resources
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.frmCalsalario.resources
+C:\Users\kj387\onedrive\documentos\visual studio 2012\Projects\ProgramasIdeias\ProgramasIdeias\obj\Debug\ProgramasIdeias.frmPessoa.resources
