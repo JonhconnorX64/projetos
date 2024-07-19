@@ -1,0 +1,9 @@
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\bin\Debug\BoletinVirtual.exe.config
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\bin\Debug\BoletinVirtual.exe
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\bin\Debug\BoletinVirtual.pdb
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\obj\Debug\BoletinVirtual.csprojResolveAssemblyReference.cache
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\obj\Debug\BoletinVirtual.Form1.resources
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\obj\Debug\BoletinVirtual.Properties.Resources.resources
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\obj\Debug\BoletinVirtual.csproj.GenerateResource.Cache
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\obj\Debug\BoletinVirtual.exe
+c:\users\kj387\onedrive\documentos\visual studio 2012\Projects\BoletinVirtual\obj\Debug\BoletinVirtual.pdb
